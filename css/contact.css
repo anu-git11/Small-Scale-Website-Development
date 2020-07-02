@@ -1,0 +1,106 @@
+#contactPage{
+  background-image:url("../images/barista-1-1600_large_2x_filter.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+
+.form-group{
+  width:100%;
+}
+
+.containForm{
+  display: inline-block;
+  width:100%;
+  padding-top: 8px;
+}
+
+.contact{
+  padding-top: 4em;
+  text-align: center;
+  border-bottom: solid 3px #f0ad4e;
+  font-size: 18px;
+  letter-spacing: 6px;
+}
+
+.contact p{
+  font-size: 32px;
+  color: white;
+  font-style: bold;
+}
+
+
+#form{
+  border:none;
+  text-align: center;
+  color:black;
+ 
+  
+}
+
+input, textarea{
+    background-color:red;
+    color: #FFF;
+}
+
+.btn-primary{
+  width: 100%;
+  background-color: white;
+  background: white !important;
+  color:black;
+  border: solid 1px grey;
+  margin:auto 0;
+}
+
+.btn-primary:hover{
+  background-color: grey;
+  border:none;
+}
+
+.form-control:focus {
+  background-color: #DCDCDC;
+  border-color: rgb(192,192,192);
+  box-shadow: inset 0 1px 1px rgba(192, 192, 192, 0.075), 0 0 8px rgba(192, 192, 192, 0.6);
+}
+
+.form-control {
+  border-radius: 0;
+  background-color: #D3D3D3;
+}
+
+.card{
+  font-size: 16px;
+  font-weight: 250;
+  color: white;   
+  background-color: rgba(91,89,89,0.9);
+  margin:.5em;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.card p
+{
+	margin-bottom:0;
+}
+
+.card img{
+	padding-top: 20px;
+}
+
+.card p#tel,  p#week{
+	padding-top: 10px;
+}
+
+.card p#letter{
+	padding-top:15px;
+}
+
+
+
+
+
+
