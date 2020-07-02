@@ -1,1 +1,1 @@
-# Small-Scale-Website-Development
+# Website Development for a Coffee Shop
