@@ -57,3 +57,6 @@ On a successful purchase, website navigates to the “Thank You” page, where t
 
 **"Thank-You"** page gets data using Javascript, and gives an output with respect to the link page i.e. where it is coming from. 
 For Example: If Thank-You page is generated from the online order, it generates an e-reciept and gives order and customer details. But if it is generated from the Contact Us page, it displays a generic message. 
+
+Credit for inspiration goes to :https://github.com/bvasilop/Tangletown-Coffee-Website
+Shopping Cart Inspiration: JavaScript Shopping Cart Tutorial for Beginners (https://www.youtube.com/watch?v=YeFzkC2awTM)
